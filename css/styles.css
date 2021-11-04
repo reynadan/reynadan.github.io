@@ -7442,9 +7442,10 @@ header video {
   -moz-transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
+  background-color: #829b6d;
 }
 
-header .container {
+header .h-100 {
   position: relative;
   z-index: 2;
 }
