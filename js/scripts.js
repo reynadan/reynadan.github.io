@@ -66,5 +66,18 @@
         });
     });
 
+    // Change years of experience corresponding to time
+    $('#yearsXp').html(new Date().getFullYear() - $('#yearsXp').data('start'));
+
+    // calculate age from birthdate
+    let today = new Date();
+    let birthDate = new Date('1993-06-14');
+    let age = today.getFullYear() - birthDate.getFullYear();
+    let m = today.getMonth() - birthDate.getMonth();
+    if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+        age--;
+    }
+    $('.age').html(age);
+
 })(jQuery); // End of use strict
   
