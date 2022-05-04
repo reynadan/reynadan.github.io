@@ -7,8 +7,8 @@
 
 <p>
   <em>
-    <img src="https://static.atgp.net/img/logo/logo.2f701a1f9c77.svg" width="30">
-      Developer at <a href="https://www.atgp.net/">@GP</a>
+    <img src="https://www.fundchannel-group.com/themes/custom/fund_channel/favicon.png" width="30">
+      Developer at <a href="https://www.fundchannel-group.com/">Fund Channel</a>
     </br>
     <img src="https://favicon-ksup.univ-grenoble-alpes.fr/SITEUI/apple-icon-60x60.png" width="30"> 
       Studied in the mountains of <a href="https://www.univ-grenoble-alpes.fr/">Grenoble</a>
